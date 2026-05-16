@@ -54,7 +54,5 @@ Created visualizations using Matplotlib and Seaborn:
 4. Improve work-life balance initiatives
 5. Conduct employee engagement and feedback programs
 6. Focus retention strategies on high attrition age groups
-# Visualizations
-
 # Conclusion 
 This project demonstrates how data analysis can help organizations understand employee attrition patterns and make data-driven business decisions.
